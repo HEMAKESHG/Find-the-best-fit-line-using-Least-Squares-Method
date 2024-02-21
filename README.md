@@ -60,7 +60,8 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot 2024-02-21 195209](https://github.com/HEMAKESHG/Find-the-best-fit-line-using-Least-Squares-Method/assets/144870552/3ab7af0c-70ec-4591-a745-bdc199ee08ac)
+![Screenshot 2024-02-21 200015](https://github.com/HEMAKESHG/Find-the-best-fit-line-using-Least-Squares-Method/assets/144870552/dfa18f44-1a77-43cb-b958-c01533298767)
+
 
 
 ## Result:
